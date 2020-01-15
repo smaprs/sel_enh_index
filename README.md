@@ -21,7 +21,9 @@ Sérgio A. J. Volkmer [(Twitter)](https://twitter.com/sergioajv1)
 **Scripts applicability:**  
 
 The objective of this script is to help on selectively enhancement of different classes of indexed features in images.  
-In most occasions a single compostion of band, or luminosity adjustments, does not fit to all features of an image. Actually, when enhancing some features, others oftenly fall negativelly influenced. For example, this may happen when trying to higlighting bare soil, geology and vegetation diferentiations using SWIR B12, B11, as RED, causing water to loose differentiation of turbidity that Natural Red B04 can detect very well. Also when dealing with very different characteristics of luminosity, like between soil and snow.  
+  
+In most occasions a single compostion of band, or luminosity adjustments, does not fit to all features of an image. Actually, when enhancing some features, others oftenly fall negativelly influenced. For example, this may happen when trying to higlight bare soil, geology and vegetation diferentiations using SWIR B12, B11, as RED, causing water to loose differentiation of turbidity that B04 Natural Red can detect very well. Also when dealing with very different characteristics of luminosity, like between soil and snow.  
+  
 So strategically treating both separatelly may help to preserve such kind of particular details of each group of features.  
 This SWIR effect was the case that can be seen in the example of **Picture 1 below**.  
 This script also aims to be clearly didactic and easy to manipulate, as well as to be understood by begginners, since it's recommended interaction on adjusting parameters.  
@@ -34,10 +36,10 @@ Limit values of Indices, as well compositons of bands, may be adjusted to avoid 
 
 **How the script works:**  
 
-This script discriminates images in two opposite group of features, according to the limit value of selected remote sensing indices (NDWI,NDVI,NDSI; eventually other may be added to list). 
-This limit separates images in two classes of features, each group being treated separately, like a selection mask, i.e., verse and inverse selection areas of the same limit value, both summed fitting the whole image area. 
-Then, for each selection group, it applies contrast stretch and saturation separately. 
-Each selected area can be individualy blacked out, for exclusive visualization of the opposite selection. 
+This script discriminates images in two opposite group of features, according to the limit value of selected remote sensing indices (NDWI,NDVI,NDSI; eventually other may be added to list).  
+This limit separates images in two classes of features, each group being treated separately, like a selection mask, i.e., verse and inverse selection areas of the same limit value, both summed fitting the whole image area.  
+Then, for each selection group, it applies contrast stretch and saturation separately.  
+Each selected area can be individualy blacked out, for exclusive visualization of the opposite selection.  
 Also each one can be fully desaturated to monochromatic. This can be useful as another selective enhancement resource. 
 
 ## Description of representative images
