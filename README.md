@@ -42,7 +42,7 @@ Also each one can be fully desaturated to monochromatic. This can be useful as a
 
 ## Description of representative images
   
-Five pictured case below:  
+Five pictured cases below:  
   
 1) Visualization of BRAZIL, Lagoa dos Patos, RS dry season 2020-01-10:  
 <sub>**LEFT:** Using separated enhancement of land and water:  
