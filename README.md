@@ -84,12 +84,12 @@ Also each one can be fully desaturated to monochromatic. This can be useful as a
 ![Selective Enhancement script over ITALY, Golfo di Venezia](/fig/5.png)
   
 ## References
-
-For limit values of Indices:  
+  
+<sub>For limit values of Indices:  
 NDSI:  (B03-B11)/(B03+B11):> 0.42 for snow areas and glaciers : https://custom-scripts.sentinel-hub.com/sentinel-2/ndsi/  
 NDVI:  (B08-B04)/(B08+B04) > 0.4  for dense active vegetation : https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index  
-NDWI2: (B03-B08)/(B03+B08) > 0.3  for water bodies : https://en.wikipedia.org/wiki/Normalized_difference_water_index  
-
+NDWI2: (B03-B08)/(B03+B08) > 0.3  for water bodies : https://en.wikipedia.org/wiki/Normalized_difference_water_index</sub>  
+  
 ## Credits
--Selective treatment logics based on Simon Gascoin's "Better snow visualisation using NDSI" - https://www.sentinel-hub.com/contest  
--Enhancement functions based on Pierre Markuse's "Wildfire visualization" - https://custom-scripts.sentinel-hub.com/sentinel-2/markuse_fire/  
+<sub>-Selective treatment logics based on Simon Gascoin's "Better snow visualisation using NDSI" - https://www.sentinel-hub.com/contest  
+-Enhancement functions based on Pierre Markuse's "Wildfire visualization" - https://custom-scripts.sentinel-hub.com/sentinel-2/markuse_fire/</sub>  
