@@ -61,3 +61,4 @@ var EnhINVERSE = applyEnh_I(MaskINVERSE); // no parameters to adjust here; avoid
 //return ( NDSI > 0.42 ) ? EnhVERSE : EnhINVERSE ; // For SNOWY areas only
 //return ( NDVI > 0.4 ) ? EnhVERSE : EnhINVERSE ; // For VEGETATION areas only
 return ( NDWI2 > 0.1 ) ? EnhVERSE : EnhINVERSE ; // LAND x WATER: limit lowered to take clouds w/ water
+//
