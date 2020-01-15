@@ -17,7 +17,7 @@ Sérgio A. J. Volkmer [(Twitter)](https://twitter.com/sergioajv1)
 ## Detailed description
 
 **Scripts applicability:**  
-<sub>The objective of this script is to help on selectively enhancement of different classes of indexed features in images.</sub>  
+<sub>The objective of this script is to help on selectively enhancing of different classes of indexed features in images.</sub>  
 <sub>In most occasions a single compostion of band, or luminosity adjustments, does not fit to all features of an image. Actually, when enhancing some features, others oftenly fall negativelly influenced. For example, this may happen when enhancing bare soil, geology and vegetation diferentiations using SWIR B12, B11, as RED, causing water to loose differentiation of turbidity that B04 Natural Red can detect very well. This SWIR effect was the case that can be seen in the example of **Picture 1 below**. Also when dealing with very different exigencies for luminosity adjustement, like between soil and snow.</sub>  
 <sub>So strategically treating both separatelly may help to preserve such kind of particular details of each group of features.  
 This script also aims to be didacticaly clear, simple and easy to manipulate, to be understood by begginners, since it's recommended user actions on adjusting parameters (even though parameters have default presets).</sub>  
