@@ -32,7 +32,8 @@ Limit values of Indices, as well compositons of bands, may be adjusted to avoid 
 This limit separates images in two classes of features, each group being treated separately, like a selection mask, i.e., verse and inverse selection areas of the same limit value, both summed fitting the whole image area.  
 Then, for each selection group, it applies contrast stretch and saturation separately.  
 Each selected area can be individualy blacked out, for exclusive visualization of the opposite selection.  
-Also each one can be fully desaturated to monochromatic. This can be useful as another selective enhancement resource.</sub> 
+Also each one can be fully desaturated to monochromatic. This can be useful as another selective enhancement resource.  
+Parameters for contrast, saturation, index limit and band compositions may be manually adjusted.</sub>  
 
 ## Description of representative images
   
