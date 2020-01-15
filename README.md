@@ -28,7 +28,7 @@ It can't be provided just one single stablished enhancement adjust to fitting al
 Limit values of Indices, as well compositons of bands, may be adjusted to avoid affect undesirable features.</sub> 
 
 **How the script works:**  
-<sub>This script discriminates images in two opposite group of features, according to the limit value of selected remote sensing indices (NDWI,NDVI,NDSI; eventually other may be added to list).  
+<sub>This script discriminates images in two opposite group of features, according to the limit value of selected remote sensing indices (NDWI,NDVI,NDSI; eventually others may be added to the list).  
 This limit separates images in two classes of features, each group being treated separately, like a selection mask, i.e., verse and inverse selection areas of the same limit value, both summed fitting the whole image area.  
 Then, for each selection group, it applies contrast stretch and saturation separately.  
 Each selected area can be individualy blacked out, for exclusive visualization of the opposite selection.  
