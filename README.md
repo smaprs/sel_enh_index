@@ -86,8 +86,8 @@ Also each one can be fully desaturated to monochromatic. This can be useful as a
 ## References
   
 <sub>For limit values of Indices:  
-NDSI:  (B03-B11)/(B03+B11):> 0.42 for snow areas and glaciers : https://custom-scripts.sentinel-hub.com/sentinel-2/ndsi/  
-NDVI:  (B08-B04)/(B08+B04) > 0.4  for dense active vegetation : https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index  
+NDSI:  (B03-B11)/(B03+B11) > 0.42 for snow areas and glaciers : https://custom-scripts.sentinel-hub.com/sentinel-2/ndsi/  
+NDVI:  (B08-B04)/(B08+B04) > 0.2 for grass, shrub; > 0.4  dense forest : https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index  
 NDWI2: (B03-B08)/(B03+B08) > 0.3  for water bodies : https://en.wikipedia.org/wiki/Normalized_difference_water_index</sub>  
   
 ## Credits
