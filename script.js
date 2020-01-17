@@ -1,6 +1,6 @@
 /*
 "Selective Enhancement based on Indices"
-Interactive enhancement masks for alernate selection of Land x Water/Snow/Vegetation, based on NDWI, NDSI and NDVI Indices, for Sentinel-2 
+Interactive enhancement masks for alternate selection of Land x Water/Snow/Vegetation, based on NDWI, NDSI and NDVI Indices, for Sentinel-2 
 (see Indices at  https://custom-scripts.sentinel-hub.com/#sentinel-2)
 By Sérgio A. J. Volkmer (https://twitter.com/sergioajv1) * CC BY 4.0 International - https://creativecommons.org/licenses/by/4.0/
 References: 
